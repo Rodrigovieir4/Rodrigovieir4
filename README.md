@@ -63,8 +63,12 @@
 
 ---
 
+<div align="center">
+  
+![snake gif](https://github.com/Rodrigovieir4/Rodrigovieir4/blob/output/github-snake-dark.svg)
 <p align="center">
   Feito com ❤️ por Rodrigo Vieira
 </p>
 
+</div>
 
