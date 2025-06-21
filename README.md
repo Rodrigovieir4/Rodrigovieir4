@@ -12,9 +12,8 @@
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Rodrigovieir4&show_icons=true&theme=swift&include_all_commits=true&count_private=true" height="120em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigovieir4&layout=compact&langs_count=7&theme=swift" height="120em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rodrigovieir4&theme=swift" height="120em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rodrigovieir4&show_icons=true&theme=swift&include_all_commits=true&count_private=true" height="150em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigovieir4&layout=compact&langs_count=7&theme=swift" height="150e"/>
 
 </p>
 
