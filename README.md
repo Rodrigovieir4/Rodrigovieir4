@@ -50,7 +50,7 @@
 
 ---
 
-### 🌐 Vamos Conectar?
+### 🌐 Vamos se conectar?
 
 <p align="center">
 
