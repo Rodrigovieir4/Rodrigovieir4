@@ -56,7 +56,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigovieir4/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.rodrigovsousa@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://SEUPORTFOLIO.com)
+[![Portfolio](https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-rodrigo-vieira.netlify.app)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigo.vieir4/)  
 
 </p>
