@@ -39,15 +39,6 @@
 
 ---
 
-### 📌 Projetos em Destaque:
-
-- ✅ **CRUD Completo com Java Spring Boot + MySQL**
-- ✅ **Frontend Responsivo com HTML/CSS/JavaScript**
-- ✅ **API Restful de Cadastro de Usuários**
-- ✅ **Mini Sistema de Autenticação**
-
-*(Quer ver mais? Confira meus repositórios 👇)*
-
 ---
 
 ### 🌐 Vamos se conectar?
