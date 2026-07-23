@@ -11,15 +11,14 @@
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub:
+### 💼 Experiência & Foco Atual
 
-<p align="center">
+- 🏢 Atuo como **Desenvolvedor Full Stack na DBC Software**, participando de projetos para clientes internacionais na **Europa**.
+- 📱 Desenvolvi o **Esplêndido**, um aplicativo para agendamento de limpezas e serviços domésticos.
+- 🔧 Trabalho com todo o ciclo de desenvolvimento: back-end, front-end, banco de dados e integrações via API REST.
+- 📚 Cursando **MBA em Engenharia de Software (USP/Esalq)** para aprofundar boas práticas e arquitetura.
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Rodrigovieir4&show_icons=true&theme=swift&include_all_commits=true&count_private=true" height="130em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigovieir4&layout=compact&langs_count=7&theme=swift" height="130em"/>
-
-</p>
-
+---
 
 ### 🛠️ Tecnologias & Ferramentas:
 
@@ -47,6 +46,17 @@
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+
+---
+
+### 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+| --- | --- | --- |
+| [**XADRAMA**](https://github.com/Rodrigovieir4/XADRAMA) | Jogo de tabuleiro que une a simplicidade da Dama com a tática do Xadrez | TypeScript |
+| [**API E-commerce**](https://github.com/Rodrigovieir4/API-e-commerce) | API completa de e-commerce com autenticação e carrinho de compras | Python · Flask |
+| [**Gerenciador de Tarefas**](https://github.com/Rodrigovieir4/Gereciador-de-tarefas-Java-) | Aplicação para gerenciamento de tarefas | Java |
+| [**Meu Portfólio**](https://github.com/Rodrigovieir4/meu-portfolio) | Site pessoal com meus projetos e trajetória | HTML · CSS |
 
 ---
 
